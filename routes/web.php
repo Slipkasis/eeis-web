@@ -10,5 +10,6 @@ Route::view('/servicios', 'servicios');
 Route::view('/proyectos', 'proyectos');
 Route::view('/blog', 'blog');
 Route::view('/contacto', 'contacto');
+Route::get('/productos',);
 
 
